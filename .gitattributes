@@ -1,1 +1,2 @@
 06/assignment_06_data.npz filter=lfs diff=lfs merge=lfs -text
+07/assignment_07_data.npz filter=lfs diff=lfs merge=lfs -text
